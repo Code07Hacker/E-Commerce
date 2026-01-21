@@ -1,0 +1,22 @@
+export const MainCaroselData = [
+    {
+        image:"https://www.ethnicplus.in/media/mageplaza/bannerslider/banner/image/9/_/9_13.jpg",
+        path:"/women/clothing/women_dress"
+    },
+    {
+        image:"https://www.ethnicplus.in/media/mageplaza/bannerslider/banner/image/6/_/6_11.jpg",
+        path:"/women/clothing/lengha_choli"
+    },
+    {
+        image:"https://www.ethnicplus.in/media/mageplaza/bannerslider/banner/image/5/_/5_12.jpg",
+        path:"/women/clothing/women_dress"
+    },
+    {
+        image:"https://www.ethnicplus.in/media/mageplaza/bannerslider/banner/image/7/_/7_10.jpg",
+        path:"/women/clothing/women_dress"
+    },
+    {
+        image:"https://www.ethnicplus.in/media/mageplaza/bannerslider/banner/image/6/_/6_11.jpg",
+        path:"/women/clothing/women_dress"
+    }
+]
